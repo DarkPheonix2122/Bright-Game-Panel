@@ -2,6 +2,7 @@
 ===================================================================
 			  by warhawk3407 (warhawk3407@gmail.com)
 		And Continued again by DarkPheonix2122 (jcplayz111@gmail.com)
+
 ===================================================================
 
 http://www.bgpanel.net/
@@ -9,81 +10,7 @@ Version 0.4.5 (Release 0 DEVELOPER BETA 8)
 November 23rd, 2013
 
 ===================================================================
-							Terms of Use
-===================================================================
-
-By using Bright Game Panel, you declare that you have read and understood
-LICENSING conditions (see below) and you agree to respect all of them
-without limitations.
-
-===================================================================
-							LICENSING
-===================================================================
-
--------------------------------------------------------------------
-Bright Game Panel Licensing (GNU General Public License)
--------------------------------------------------------------------
-
-Bright Game Panel is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/>.
-
--------------------------------------------------------------------
-HighSoft Non Commercial Licensing (CC BY-NC 3.0)
--------------------------------------------------------------------
-
-Bright Game Panel uses the Highcharts JS and Highstock JS libraries.
-
-Those libraries are developed by Highsoft. Highsoft is the owner of software products
-developed by Torstein Hønsi. Please, see <http://highsoft.com/>.
-
-Highcharts JS and Highstock JS libraries provided in this package are licensed under
-the terms of the Creative Commons Attribution-NonCommercial 3.0 License.
-Please, see <http://creativecommons.org/licenses/by-nc/3.0/>.
-
-You can use HighSoft software for free under the non-commercial license when you are:
-	- A student, university or a public school
-	- A non-profit organisation
-	- Developing and testing applications using Highcharts/Highstock
-
-Source editing is allowed.
-
-HIGHSOFT SOFTWARE PRODUCT IS NOT FREE FOR COMMERCIAL USE.
-
-More information at <http://shop.highsoft.com/faq#non-commercial-redistribution>.
-
-===================================================================
-							LIBRARIES
-===================================================================
-
-Bright Game Panel uses several GPL compliant libraries.
-The following libraries are currently included into the panel :
-
-- LGSL ( Live Game Server List ) by Richard Perry ( http://www.greycube.com/ )
-- pChart 2.1.3 ( http://www.pchart.net/ )
-- phpseclib build-364 ( http://phpseclib.sourceforge.net/ )
-- securimage 3.5.1 (June 22, 2013) ( http://www.phpcaptcha.org/ )
-- php-gettext 1.0.11 ( https://launchpad.net/php-gettext/ )
-
-- Bootstrap 2.3.2 ( http://getbootstrap.com/2.3.2/ )
-- Bootswatch 2.3.2 ( http://bootswatch.com/ )
-- google-code-prettify ( http://code.google.com/p/google-code-prettify/ )
-- jQuery 1.9.1 ( http://jquery.com/ )
-	* Lazy Load 1.8.5 ( http://www.appelsiini.net/projects/lazyload/ )
-	* tablesorter 2.0.3 ( http://tablesorter.com/ )
-	* Highcharts JS: Highstock 1.3.4 (2013-08-02) ( http://www.highcharts.com/ )
-
-===================================================================
-						WEB SERVER REQUIREMENTS
+			WEB SERVER REQUIREMENTS
 ===================================================================
 
 1. Linux OS
@@ -101,7 +28,7 @@ The following libraries are currently included into the panel :
 13. SimpleXML Extension
 
 ===================================================================
-						INSTALLATION INSTRUCTIONS
+			INSTALLATION INSTRUCTIONS
 ===================================================================
 
 1. Unzip the contents of the .zip file to a folder on your computer.
@@ -123,7 +50,7 @@ The following libraries are currently included into the panel :
 Enjoy BrightGamePanel !
 
 ===================================================================
-						UPDATE INSTRUCTIONS
+			UPDATE INSTRUCTIONS
 ===================================================================
 
 0. READ SPECIFIC INFORMATION RELATIVE TO A VERSION UPGRADE. IT IS WRITTEN IN THE 'README UPDATE' FILE ( IF THIS FILE DOESN'T EXIST, IGNORE THIS STEP ).
