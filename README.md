@@ -1,6 +1,7 @@
+# Bright Game Panel - PHP Game Control Panel
 ===================================================================
-			Bright Game Panel - PHP Game Control Panel
 			  by warhawk3407 (warhawk3407@gmail.com)
+		And Continued again by DarkPheonix2122 (jcplayz111@gmail.com)
 ===================================================================
 
 http://www.bgpanel.net/
