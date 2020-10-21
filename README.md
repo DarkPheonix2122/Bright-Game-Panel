@@ -1,17 +1,14 @@
 # Bright Game Panel - PHP Game Control Panel
-===================================================================
+
 			  by warhawk3407 (warhawk3407@gmail.com)
 		And Continued again by DarkPheonix2122 (jcplayz111@gmail.com)
 
-===================================================================
+http://www.brightgp.ga/
+Version 0.4.6 (Release 0 Stable 8)
+October 21st, 2020
 
-http://www.bgpanel.net/
-Version 0.4.5 (Release 0 DEVELOPER BETA 8)
-November 23rd, 2013
 
-===================================================================
-			WEB SERVER REQUIREMENTS
-===================================================================
+# WEB SERVER REQUIREMENTS
 
 1. Linux OS
 2. PHP Version 5.3.4 or Greater
@@ -27,9 +24,7 @@ November 23rd, 2013
 12. FreeType Extension
 13. SimpleXML Extension
 
-===================================================================
-			INSTALLATION INSTRUCTIONS
-===================================================================
+# INSTALLATION INSTRUCTIONS
 
 1. Unzip the contents of the .zip file to a folder on your computer.
 
@@ -49,9 +44,7 @@ November 23rd, 2013
 
 Enjoy BrightGamePanel !
 
-===================================================================
-			UPDATE INSTRUCTIONS
-===================================================================
+# UPDATE INSTUCTIONS
 
 0. READ SPECIFIC INFORMATION RELATIVE TO A VERSION UPGRADE. IT IS WRITTEN IN THE 'README UPDATE' FILE ( IF THIS FILE DOESN'T EXIST, IGNORE THIS STEP ).
 	|-> Filename syntax: 'README-version-UPDATE.txt'
