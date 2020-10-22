@@ -42,7 +42,7 @@ else
 /**
  * Install Wizard Version
  */
-define('WIZARDVERSION', 'v1.7.0');
+define('WIZARDVERSION', 'v1.7.1');
 
 /**
  * BGP VERSION LIST
@@ -930,11 +930,11 @@ else if ($_GET['step'] == 'three')
 				<hr>
 				<footer>
 					<div class="pull-left">
-						Copyleft - 2013. Released Under <a href="http://www.gnu.org/licenses/gpl.html" target="_blank">GPLv3</a>.<br />
+						CopyRight - 2020. Released Under <a href="http://www.gnu.org/licenses/gpl.html" target="_blank">GPLv3</a>.<br />
 						All Images Are Copyrighted By Their Respective Owners.
 					</div>
 					<div class="pull-right" style="text-align: right;">
-						<a href="http://www.bgpanel.net/" target="_blank">Bright Game Panel</a><br />
+						<a href="http://www.brightgp.ga/" target="_blank">Bright Game Panel</a><br />
 						Install Script: <?php echo WIZARDVERSION; ?> - BGP: <?php echo LASTBGPVERSION; ?><br />
 						Built with <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>.
 					</div>
