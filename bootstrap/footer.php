@@ -19,11 +19,11 @@
  *
  * @categories	Games/Entertainment, Systems Administration
  * @package		Bright Game Panel
- * @author		warhawk3407 <warhawk3407@gmail.com> @NOSPAM
- * @copyleft	2013
+ * @author		warhawk3407; Continued by DarkPheonix <jcplayz111@gmail.com>
+ * @copyright	2020
  * @license		GNU General Public License version 3.0 (GPLv3)
- * @version		(Release 0) DEVELOPER BETA 8
- * @link		http://www.bgpanel.net/
+ * @version		(Release 0) DEVELOPER BETA 9
+ * @link		http://www.brightgp.ga/
  */
 
 
@@ -39,11 +39,11 @@ if (!defined('LICENSE'))
 			<hr>
 			<footer>
 				<div class="pull-left">
-					Copyleft - 2013. Released Under <a href="http://www.gnu.org/licenses/gpl.html" target="_blank">GPLv3</a>.<br />
+					Copyleft - 2020. Released Under <a href="http://www.gnu.org/licenses/gpl.html" target="_blank">GPLv3</a>.<br />
 					All Images Are Copyrighted By Their Respective Owners.
 				</div>
 				<div class="pull-right" style="text-align: right;">
-					<a href="http://www.bgpanel.net/" target="_blank">Bright Game Panel</a> @Client<br />
+					<a href="http://www.brightgp.ga/" target="_blank">Bright Game Panel</a> @Client<br />
 					Built with <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>.
 				</div>
 			</footer>
