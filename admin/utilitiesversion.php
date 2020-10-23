@@ -19,11 +19,11 @@
  *
  * @categories	Games/Entertainment, Systems Administration
  * @package		Bright Game Panel
- * @author		warhawk3407 <warhawk3407@gmail.com> @NOSPAM
- * @copyleft	2013
+ * @author		warhawk3407; Continued by DarkPheonix <jcplayz111@gmail.com>
+ * @copyright	2020
  * @license		GNU General Public License version 3.0 (GPLv3)
  * @version		(Release 0) DEVELOPER BETA 9
- * @link		http://www.bgpanel.net/
+ * @link		http://www.brightgp.ga/
  */
 
 
